@@ -1,0 +1,2 @@
+python judgement.py
+pause
